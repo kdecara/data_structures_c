@@ -1,2 +1,2 @@
-# data_structures_c
+# data_structures
 compilation of common data structures written in C
